@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/w3schoolHeaderClass/static/css/main.a2ac33fe.css",
+    "main.js": "/w3schoolHeaderClass/static/js/main.b11a3920.js",
+    "index.html": "/w3schoolHeaderClass/index.html",
+    "main.a2ac33fe.css.map": "/w3schoolHeaderClass/static/css/main.a2ac33fe.css.map",
+    "main.b11a3920.js.map": "/w3schoolHeaderClass/static/js/main.b11a3920.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2ac33fe.css",
+    "static/js/main.b11a3920.js"
+  ]
+}
